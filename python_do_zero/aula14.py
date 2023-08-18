@@ -19,4 +19,3 @@ ex = 'a={nome1} b={nome2} c={nome3:.2f}'
 forma = ex.format(nome1=a,nome2=b, nome3=c)
 
 print(forma)
-
